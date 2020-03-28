@@ -7,9 +7,9 @@ Selenium Fundamental For website Crawler tutorial mini DS internal UII
 - beautifulsoup pelengkap aja 
 
 # install virtualenv pre-requisite python 
-virtualenv -p python3 crawlerenv 
-pip install selenium
-pip install bs4
+- virtualenv -p python3 crawlerenv 
+- pip install selenium
+- pip install bs4
 
 # download chromedriver sesuai chrome display anda
 https://chromedriver.chromium.org/downloads 
